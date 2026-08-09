@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Olha o curso mostrando resultado! 🙂</h1>;
+    return <h1>🙂 Olha o curso mostrando resultado! 🙂</h1>;
    
 }
 
