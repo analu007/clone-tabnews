@@ -4,7 +4,7 @@
   "description": "Projeto para treinar programação. (curso.dev)",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3001",
     "lint:check": "prettier --check .",
     "lint:fix": "prettier --write ."
   },
